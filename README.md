@@ -94,4 +94,4 @@ Este repositorio fue construido para mostrar:
 
 ---
 
-> ⚠️ Este desarrollo no está destinado para publicación ni distribución. Solo tiene fines demostrativos dentro de una entrevista técnica.
+> ⚠️ Este desarrollo no está destinado para publicación ni distribución. Solo tiene fines demostrativos dentro de un entorno demostrativo.
