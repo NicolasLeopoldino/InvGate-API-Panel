@@ -3,7 +3,7 @@
 # 🎯 InvGate Toolkit - Herramientas Visuales para Mesa de Ayuda
 
 <p align="center">
-  <img src="assets/main_preview.png" alt="InvGate Toolkit" style="max-width: 800px;">
+  <img src="assets/main_preview.jpg" alt="InvGate Toolkit" style="max-width: 800px;">
 </p>
 
 Este conjunto de herramientas fue desarrollado como una solución visual y funcional para la administración de tickets, usuarios, alertas y tiempos de trabajo a través de la API de InvGate.
