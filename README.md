@@ -21,7 +21,7 @@ Visualización por agente de:
 - Último registro realizado
 
 <p align="center">
-  <img src="assets/timetracking_preview.png" alt="Time Tracking" style="max-width: 800px;">
+  <img src="assets/timetracking_preview.jpg" alt="Time Tracking" style="max-width: 800px;">
 </p>
 
 ---
@@ -31,7 +31,7 @@ Visualización por agente de:
 Muestra alertas activas con íconos, colores y fecha de inicio. Separadas por tipo (información, advertencia, crítica).
 
 <p align="center">
-  <img src="assets/breakingnews_preview.png" alt="Breaking News" style="max-width: 800px;">
+  <img src="assets/breakingnews_preview.jpg" alt="Breaking News" style="max-width: 800px;">
 </p>
 
 ---
@@ -41,7 +41,7 @@ Muestra alertas activas con íconos, colores y fecha de inicio. Separadas por ti
 Listado por estado con título, prioridad, fecha y resumen. Permite doble clic para ver el detalle completo.
 
 <p align="center">
-  <img src="assets/tickets_all_preview.png" alt="Tickets Todos" style="max-width: 800px;">
+  <img src="assets/tickets_all_preview.jpg" alt="Tickets Todos" style="max-width: 800px;">
 </p>
 
 ---
@@ -51,7 +51,7 @@ Listado por estado con título, prioridad, fecha y resumen. Permite doble clic p
 Vista jerárquica con tickets agrupados por usuario. Ideal para evaluar carga de trabajo y supervisión.
 
 <p align="center">
-  <img src="assets/tickets_by_user_preview.png" alt="Tickets por Usuario" style="max-width: 800px;">
+  <img src="assets/tickets_by_user_preview.jpg" alt="Tickets por Usuario" style="max-width: 800px;">
 </p>
 
 ---
@@ -61,7 +61,7 @@ Vista jerárquica con tickets agrupados por usuario. Ideal para evaluar carga de
 Detalle visual de cada usuario de la mesa de ayuda. Información enriquecida con íconos, colores y formato enriquecido.
 
 <p align="center">
-  <img src="assets/user_admin_preview.png" alt="Admin Usuarios" style="max-width: 800px;">
+  <img src="assets/user_admin_preview.jpg" alt="Admin Usuarios" style="max-width: 800px;">
 </p>
 
 ---
